@@ -1,6 +1,6 @@
 # file: pyproject.toml
 
-version = "0.0.1"
+version = "0.0.2"
 name = "dnd-roller"
 authors = [
     {name = "Valerio Maggio", email = "vmaggio@anaconda.com"},
