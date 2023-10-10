@@ -21,5 +21,5 @@ setup(
     url="http://github.com/leriomaggio OR YOUR-GITHUB_ID/dnd-roller",
     include_package_data=True,
     packages=find_packages(exclude=[]),
-    install_requires=["nomoji==0.0.5", "tabulate"],
+    install_requires=["tabulate"],
 )
